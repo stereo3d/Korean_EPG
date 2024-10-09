@@ -3,6 +3,9 @@ TVXML file for Korean Terrestrial TV channels for use in PLEX server and HDHomer
 As the Plex server does not allow to choose Korea as a country, this list can
 at least make the channels visible and selectable.
 
+<img src="images/channellist.jpg" width="230" />
+
+
 The list contains the embedded logos of the channels
 
 MBC
